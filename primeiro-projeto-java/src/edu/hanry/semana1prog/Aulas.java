@@ -1,3 +1,4 @@
+package edu.hanry.semana1prog;
 public class Aulas {
     public static void main(String[] args) {
         
