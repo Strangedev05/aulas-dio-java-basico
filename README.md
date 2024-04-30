@@ -1,4 +1,3 @@
-# aulas-dio-java-basico
-Repositório para armazenar todos os códigos do curso da DIO
+# AULAS-DIO-JAVA-BÁSICO
 
-Alteração de forma local
+### Neste repositório, irá fica todas as minhas atividade práticas e códigos do curso em Java. Todo meu progressor iá ser salvo aqui, perante meu desenvolvimento no curso.
