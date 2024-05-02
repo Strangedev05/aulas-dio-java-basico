@@ -1,8 +1,9 @@
 public class SmartTV {
+    
     boolean ligada = false;
     int canal = 1;
     int vol = 25;
-
+    
     public void ligar(){
         ligada = true;   
     }
