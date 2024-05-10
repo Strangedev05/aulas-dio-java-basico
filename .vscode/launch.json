@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ResultadoEscolar",
+            "request": "launch",
+            "mainClass": "edu.hanry.semana2prog.ResultadoEscolar",
+            "projectName": "aulas-dio-java-basico_b4c5d939"
+        },
+        {
+            "type": "java",
             "name": "CaixaEletronico",
             "request": "launch",
             "mainClass": "edu.hanry.semana2prog.CaixaEletronico",
