@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PlanoOperadora",
+            "request": "launch",
+            "mainClass": "edu.hanry.semana3prog.PlanoOperadora",
+            "projectName": "aulas-dio-java-basico_b4c5d939"
+        },
+        {
+            "type": "java",
+            "name": "SistemaMedida",
+            "request": "launch",
+            "mainClass": "edu.hanry.semana3prog.SistemaMedida",
+            "projectName": "aulas-dio-java-basico_b4c5d939"
+        },
+        {
+            "type": "java",
+            "name": "SistemaMedida",
+            "request": "launch",
+            "mainClass": "edu.hanry.semana2prog.SistemaMedida",
+            "projectName": "aulas-dio-java-basico_b4c5d939"
+        },
+        {
+            "type": "java",
             "name": "ResultadoEscolar",
             "request": "launch",
             "mainClass": "edu.hanry.semana2prog.ResultadoEscolar",
