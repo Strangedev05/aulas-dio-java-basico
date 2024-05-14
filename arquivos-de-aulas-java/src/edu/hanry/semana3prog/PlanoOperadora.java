@@ -2,7 +2,7 @@ package edu.hanry.semana3prog;
 
 public class PlanoOperadora {
     public static void main(String[] args) {
-        String plano = "T";
+        String plano = "T   ";
         
         switch (plano) {
             case "T": {
