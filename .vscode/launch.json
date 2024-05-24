@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "VerificadorNumeroConta",
+            "request": "launch",
+            "mainClass": "VerificadorNumeroConta",
+            "projectName": "aulas-dio-java-basico_b4c5d939"
+        },
+        {
+            "type": "java",
+            "name": "DesafioDIO",
+            "request": "launch",
+            "mainClass": "edu.hanry.semana3prog.DesafioDIO",
+            "projectName": "aulas-dio-java-basico_b4c5d939"
+        },
+        {
+            "type": "java",
             "name": "FormatadorCepExemplo",
             "request": "launch",
             "mainClass": "edu.hanry.semana3prog.FormatadorCepExemplo",
