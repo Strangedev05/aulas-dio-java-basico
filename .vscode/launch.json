@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Estabelecimento",
+            "request": "launch",
+            "mainClass": "Lanchonete.Estabelecimento",
+            "projectName": "aulas-dio-java-basico_b4c5d939"
+        },
+        {
+            "type": "java",
             "name": "VerificadorNumeroConta",
             "request": "launch",
             "mainClass": "VerificadorNumeroConta",
