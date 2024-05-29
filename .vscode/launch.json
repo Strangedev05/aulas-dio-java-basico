@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SistemaCadastro",
+            "request": "launch",
+            "mainClass": "edu.hanry.semana4prog.SistemaCadastro",
+            "projectName": "aulas-dio-java-basico_b4c5d939"
+        },
+        {
+            "type": "java",
             "name": "Escola",
             "request": "launch",
             "mainClass": "edu.hanry.semana4prog.Escola.Escola",
