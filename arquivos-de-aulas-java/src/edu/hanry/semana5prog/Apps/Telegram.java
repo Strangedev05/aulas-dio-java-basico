@@ -1,7 +1,8 @@
-package edu.hanry.semana5prog;
+package edu.hanry.semana5prog.Apps;
 
 public class Telegram extends ServicoMensagemInstantanea {
     public void enviarMensagem() {
+        validarConectadorInternet();
         System.out.println("Enviando mensagem pelo Telegram");
     }
     public void receberMesagem() {
