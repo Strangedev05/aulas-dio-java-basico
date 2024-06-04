@@ -1,4 +1,4 @@
-package edu.hanry.semana5prog.Apps;
+package edu.hanry.semana5prog.SistemaMensagem.Apps;
 
 public class FacebookMessenger extends ServicoMensagemInstantanea{
     public void enviarMensagem() {

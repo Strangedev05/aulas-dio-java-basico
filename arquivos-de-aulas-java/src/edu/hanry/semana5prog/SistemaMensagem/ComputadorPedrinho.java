@@ -1,9 +1,9 @@
-package edu.hanry.semana5prog;
+package edu.hanry.semana5prog.SistemaMensagem;
 
-import edu.hanry.semana5prog.Apps.FacebookMessenger;
-import edu.hanry.semana5prog.Apps.MSNMessenger;
-import edu.hanry.semana5prog.Apps.ServicoMensagemInstantanea;
-import edu.hanry.semana5prog.Apps.Telegram;
+import edu.hanry.semana5prog.SistemaMensagem.Apps.FacebookMessenger;
+import edu.hanry.semana5prog.SistemaMensagem.Apps.MSNMessenger;
+import edu.hanry.semana5prog.SistemaMensagem.Apps.ServicoMensagemInstantanea;
+import edu.hanry.semana5prog.SistemaMensagem.Apps.Telegram;
 
 public class ComputadorPedrinho {
     public static void main(String[] args) {

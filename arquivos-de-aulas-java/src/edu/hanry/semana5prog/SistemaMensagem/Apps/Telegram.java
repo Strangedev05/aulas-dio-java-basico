@@ -1,4 +1,4 @@
-package edu.hanry.semana5prog.Apps;
+package edu.hanry.semana5prog.SistemaMensagem.Apps;
 
 public class Telegram extends ServicoMensagemInstantanea {
     public void enviarMensagem() {

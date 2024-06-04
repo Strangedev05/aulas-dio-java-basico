@@ -1,4 +1,4 @@
-package edu.hanry.semana5prog.Apps;
+package edu.hanry.semana5prog.SistemaMensagem.Apps;
 
 public class MSNMessenger extends ServicoMensagemInstantanea {
     public void enviarMensagem() {
