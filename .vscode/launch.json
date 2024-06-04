@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Loja",
+            "request": "launch",
+            "mainClass": "edu.hanry.semana5prog.Estabelecimento.Loja",
+            "projectName": "aulas-dio-java-basico_b4c5d939"
+        },
+        {
+            "type": "java",
             "name": "ComputadorPedrinho",
             "request": "launch",
             "mainClass": "edu.hanry.semana5prog.ComputadorPedrinho",
