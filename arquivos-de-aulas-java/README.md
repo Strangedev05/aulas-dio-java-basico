@@ -1,1 +1,1 @@
-## O arquivo DesfioDIO.java é um primoramento do primeiro desafio "Condições, loops e Exeções na Prática com Java" dado pela DIO
+## O arquivo DesfioDIO.java é um aprimoramento do primeiro desafio "Condições, loops e Exeções na Prática com Java" dado pela DIO
