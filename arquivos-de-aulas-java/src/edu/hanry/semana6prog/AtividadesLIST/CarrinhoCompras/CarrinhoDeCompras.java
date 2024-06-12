@@ -1,4 +1,4 @@
-package edu.hanry.semana6prog.AtividadesLIST;
+package AtividadesLIST.CarrinhoCompras;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -29,18 +29,18 @@ public class CarrinhoDeCompras {
         }
     }
 
-  public double calcularValorTotal() {
+    public double calcularValorTotal() {
     double valorTotal = 0d;
     if (!compraList.isEmpty()) {
-      for (Compra item : compraList) {
+    for (Compra item : compraList) {
         double valorItem = item.getPreco() * item.getQuant();
         valorTotal += valorItem; //valorTotal = valorTotal + valorItem;
-      }
-      return valorTotal;
-    } else {
-      throw new RuntimeException("A lista está vazia!");
     }
-  }
+    return valorTotal;
+    } else {
+    throw new RuntimeException("A lista está vazia!");
+    }
+}
 
     public void exibirCompras() {
         if (!compraList.isEmpty()) {

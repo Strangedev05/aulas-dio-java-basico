@@ -1,4 +1,4 @@
-package edu.hanry.semana6prog;
+package ListaTarefa;
 
 public class Tarefa {
     private String descricao;

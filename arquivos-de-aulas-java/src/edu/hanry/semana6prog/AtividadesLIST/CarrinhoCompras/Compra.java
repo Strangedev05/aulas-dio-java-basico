@@ -1,4 +1,4 @@
-package edu.hanry.semana6prog.AtividadesLIST;
+package AtividadesLIST.CarrinhoCompras;
 
 public class Compra {
     private String nome;
