@@ -1,4 +1,4 @@
-package edu.hanry.semana7prog;
+package edu.hanry.semana7prog.OperaçãoBásicaSET;
 
 public class Convidado {
     private String nome;
