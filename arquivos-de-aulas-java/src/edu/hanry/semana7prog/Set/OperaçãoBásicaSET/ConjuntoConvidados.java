@@ -1,4 +1,4 @@
-package edu.hanry.semana7prog.OperaçãoBásicaSET;
+package edu.hanry.semana7prog.Set.OperaçãoBásicaSET;
 
 import java.util.HashSet;
 import java.util.Set;

@@ -1,4 +1,4 @@
-package edu.hanry.semana7prog.PesquisaSET;
+package edu.hanry.semana7prog.Set.PesquisaSET;
 
 public class Contato {
     private String nome;

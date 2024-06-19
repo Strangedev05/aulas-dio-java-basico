@@ -1,4 +1,4 @@
-package edu.hanry.semana7prog.PesquisaSET;
+package edu.hanry.semana7prog.Set.PesquisaSET;
 
 import java.util.HashSet;
 import java.util.Set;

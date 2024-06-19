@@ -1,4 +1,4 @@
-package edu.hanry.semana7prog.OrdenaçãoSET;
+package edu.hanry.semana7prog.Set.OrdenaçãoSET;
 
 import java.util.HashSet;
 import java.util.Set;
